@@ -19,7 +19,7 @@ because i can currently clean,organize and visualize data with excel.
 - 💬 Ask me anything about using excel to analize data 
 git init
 git init
-- 📫You can reach me on {linkedin}()
-- 😄 Pronouns: .
-- ⚡ Fun fact: ...
+- 📫You can reach me on {linkedin}(https://www.linkedin.com/in/peace-uchegbu-99b642285/)
+- 😄 Pronouns:she
+- ⚡ Fun fact:i love data analysis
 -->
